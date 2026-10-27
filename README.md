@@ -2,7 +2,7 @@
 
 ## Overview
 <p align='center'>
-    <img src="" width="86%" height="86%">
+    <img src="fig.1.png" width="86%" height="86%">
 </p>
 
 **Figure 1. Overall architecture of CWCP-Net with CWSC, CPDFA, and MPDR for fine-grained leukocyte classification.**
